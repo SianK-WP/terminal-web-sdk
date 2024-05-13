@@ -1,0 +1,15 @@
+.card {
+   background-color: white;
+   align-content: center;
+   margin-left: 200px;
+   margin-top: 50px;
+}
+
+.card-image {
+   padding-bottom: 30px;
+}
+
+.card-body {
+   background-color: white;
+   border: #026e12;
+}
